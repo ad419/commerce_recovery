@@ -1,0 +1,50 @@
+.owl-carousel .owl-nav button.owl-next {
+  font-size: 40px;
+  position: absolute;
+  right: -0.3rem;
+  top: 30%;
+  background-color: rgb(255, 255, 255);
+  padding: 1rem !important;
+}
+
+.owl-carousel .owl-nav button.owl-prev {
+  font-size: 40px;
+  position: absolute;
+  left: -0.3rem;
+  top: 30%;
+  background-color: rgb(255, 255, 255);
+  padding: 1rem !important;
+}
+
+.owl-carousel .owl-nav button.owl-prev:hover {
+  font-size: 40px;
+  position: absolute;
+  left: -0.3rem;
+  top: 30%;
+  background-color: rgb(243, 241, 241);
+  padding: 1rem !important;
+}
+
+.owl-carousel .owl-nav button.owl-next:hover {
+  font-size: 40px;
+  position: absolute;
+
+  top: 30%;
+  background-color: rgb(243, 241, 241);
+  padding: 1rem !important;
+}
+
+.warper {
+  background-color: aliceblue;
+  padding: 1rem;
+}
+
+.seccond_heading {
+  font-size: 20px;
+  padding: 0.6rem;
+}
+
+.card_title {
+  font-size: 17px;
+  padding: 0.6rem;
+}

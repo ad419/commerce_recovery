@@ -1,0 +1,37 @@
+.sidebar {
+  background-color: #232f3e;
+  padding: 5rem 3rem 10rem;
+  width: 60%;
+  height: 100%;
+  position: fixed;
+  transition: ease-in 0.5s;
+  z-index: 10;
+}
+
+.hiden1 {
+  display: none;
+}
+
+.block1 {
+  display: block;
+}
+
+@media (min-width: 1180px) {
+  .block {
+    display: none;
+  }
+  .sidebar {
+    display: none !important;
+  }
+}
+
+.sidebar_list {
+  list-style: none;
+  color: white;
+  z-index: 10;
+}
+.sidebar_list li {
+  padding: 1rem;
+  font-size: 1.5rem;
+  z-index: 10;
+}

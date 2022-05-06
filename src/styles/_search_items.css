@@ -1,0 +1,31 @@
+.search_content {
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+  padding: 2rem;
+  padding-top: 1rem;
+  z-index: 30;
+  top: 3.4rem;
+  width: 64.5%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.dc_flex {
+  display: flex;
+  justify-content: center;
+}
+
+.search_item_res {
+  padding: 0.3rem;
+}
+
+.search_item_res:hover {
+  background-color: aqua;
+}
+
+.search-close {
+  right: 0.5rem;
+  position: absolute;
+  top: 0.3rem;
+  cursor: pointer;
+}
